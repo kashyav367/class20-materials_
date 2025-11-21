@@ -52,3 +52,5 @@ function skip5s(n){
         }
     }
 }
+
+skip5s(15);
